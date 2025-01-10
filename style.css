@@ -12,6 +12,11 @@
   flex-direction: column;
   gap: 20px;
 }
+.timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
 .event {
   position: relative; /* Для абсолютного позиционирования псевдоэлемента */
   padding-left: 20px; /* Отступ для визуального отделения линии */
