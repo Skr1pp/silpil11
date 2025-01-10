@@ -117,3 +117,7 @@ li:nth-child(even):hover {
   background-color: rgb(80, 255, 106);
   z-index: -1;
 }
+
+.list__commit {
+  background-color: rebeccapurple;
+}
